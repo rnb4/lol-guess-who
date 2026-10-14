@@ -1,1 +1,0 @@
-web: bin\lol-guess-who.exe

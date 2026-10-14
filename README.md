@@ -1,8 +1,3 @@
 # Guess Who
 
-## TODO
-	- [x] champ selected indicator
-	- [x?] reset game
-	- [x] fix refresh issue
-	- [ ] random pick
-	- [x] fix second reveal
+Test it out with `go run .`. Connect and start a game, then player two connects with the url. Can't really include portraits in this repo so good luck...
